@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\bin\Debug\UcusRezervazyon.exe.config
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\bin\Debug\UcusRezervazyon.exe
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\bin\Debug\UcusRezervazyon.pdb
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.Form1.resources
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.Properties.Resources.resources
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.exe
+C:\Users\casper\Desktop\GitHub\UcusRezervazyon\UcusRezervazyon\obj\Debug\UcusRezervazyon.pdb
